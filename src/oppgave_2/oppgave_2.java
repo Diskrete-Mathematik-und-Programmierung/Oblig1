@@ -95,4 +95,4 @@ public class oppgave_2 {
 
 //hei på deg
 //sad
-//sadhasjkdh askjdhas askjdh askjdh askdh
+
