@@ -92,8 +92,5 @@ public class oppgave_2 {
 
         }
     }
-
-//Dette er en test som tester github
-//Hvis jeg tester detet så virker det
-//askjdhkasdhka
-//askjdhasdasdn
+    
+//Her skal jeg skrive noe som ikke skal gjøre noe
