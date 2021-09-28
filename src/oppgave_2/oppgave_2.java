@@ -94,3 +94,4 @@ public class oppgave_2 {
     }
 
 //Dette er en test som tester github
+//Hvis jeg tester detet så virker det
