@@ -93,4 +93,4 @@ public class oppgave_2 {
         }
     }
 
-
+//hei på deg
