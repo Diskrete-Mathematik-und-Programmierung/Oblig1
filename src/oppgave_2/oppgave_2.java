@@ -95,3 +95,4 @@ public class oppgave_2 {
     
 //Her skal jeg skrive noe som ikke skal gjøre noe
 //noe nytt skla jeg skrive
+//jeg skriver noe mytt her
