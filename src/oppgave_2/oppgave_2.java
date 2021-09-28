@@ -93,4 +93,5 @@ public class oppgave_2 {
         }
     }
 
-//Dette er en test
+//hei på deg
+//sad
